@@ -1,4 +1,4 @@
-# project-doc-classification
+# project-dog-classification
 Udacity Deep Learning Nano Degree Doc Classification Project
 
 This project uses Python to create a CNN to classify dog breeds from supplied images.
