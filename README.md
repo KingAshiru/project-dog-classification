@@ -10,6 +10,8 @@ The first part of the implementation is based on a neural network created from s
 
 The second part uses a pretrained network to peform the feature maps and the trains a linear layer to classify the dog breeds from the images.
 
-THe supplied setup.sh fil contains command to install some of the required resources, such as the training and validation data. The training was run using the folloing AMI at Amazon: 
+## Installation
+The simplest way is to install [Anaconda](https://www.anaconda.com/) and start the Jupyter Notebook dog_app.ipyndb.
+The supplied setup.sh fil contains command to install some of the required resources, such as the training and validation data. The training was run using the following AMI at Amazon: 
 
 Deep Learning AMI (Ubuntu) Version 20.0 (ami-0827ddd2d8e38aa56)
